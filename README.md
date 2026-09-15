@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Deepanshu Sharma 👋
 
-<!--
-**analytics-deepanshu/analytics-deepanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm building my skills in data analytics and learning how to turn raw data into meaningful business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- Pandas
+- NumPy
+- SQL
+- Excel
+- Power BI
+- DAX
+
+## 📊 What I'm Currently Learning
+
+- Data Cleaning & Analysis
+- Exploratory Data Analysis
+- SQL for Business Analysis
+- Power BI Dashboards
+- Advanced Excel
+- Data Visualization
+
+## 📁 Projects
+
+🚧 My data analytics projects are currently being built.
+
+## 🎯 Career Goal
+
+To start my career as a Data Analyst and use data to help businesses make better decisions.
+
+---
+
+📫 **Let's connect and grow together!**
